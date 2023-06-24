@@ -1,0 +1,42 @@
+.card-login{
+    position: relative;
+    top: 20px;
+    background-color: rgb(51, 54, 68);
+    width: 60%;
+    padding: 70px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px #00000056;
+    color: white;
+}
+
+.card-login > h1{
+    margin: 0;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 800;
+}
+
+.card-login > .forgot-password{
+    color: white;
+    font-size: .8em;
+    text-decoration: underline;
+    font-weight: 200;
+}
+
+.card-login > .forgot-password:hover{
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 950px){
+    .card-login{
+        width: 85%;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .card-login{
+        height: 80vw;
+        background-color: rgb(61, 65, 88);
+        box-shadow: none;
+    }
+}
