@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,9 +71,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
+=======
+>>>>>>> e21d726ef00f7df01dfb30f61adc1849b7ae5587
 # tela-login-edgar
 Uma tela de login responsiva que fiz para a marca fictícia Edgar, utilizando HTML e CSS.
 Com este projeto, pude treinar minhas habilidades em CSS (display Flex, responsividade com Media Queries e regra de animação @keyframes).
 
 <img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Tela%20Login%20Edgar.png">
+<<<<<<< HEAD
+>>>>>>> e21d726ef00f7df01dfb30f61adc1849b7ae5587
+=======
 >>>>>>> e21d726ef00f7df01dfb30f61adc1849b7ae5587
