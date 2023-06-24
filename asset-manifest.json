@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/login-edgar/static/css/main.d12ccead.css",
+    "main.js": "/login-edgar/static/js/main.463ecab5.js",
+    "static/js/787.744bbec3.chunk.js": "/login-edgar/static/js/787.744bbec3.chunk.js",
+    "static/media/Unbounded-VariableFont_wght.ttf": "/login-edgar/static/media/Unbounded-VariableFont_wght.f609e6853a60ba1285b6.ttf",
+    "static/media/edgar.jpg": "/login-edgar/static/media/edgar.799b0348ca3b8492f90b.jpg",
+    "index.html": "/login-edgar/index.html",
+    "main.d12ccead.css.map": "/login-edgar/static/css/main.d12ccead.css.map",
+    "main.463ecab5.js.map": "/login-edgar/static/js/main.463ecab5.js.map",
+    "787.744bbec3.chunk.js.map": "/login-edgar/static/js/787.744bbec3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d12ccead.css",
+    "static/js/main.463ecab5.js"
+  ]
+}
